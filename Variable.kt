@@ -5,7 +5,7 @@ fun main() {
 
     // We cannot reassign val type
     val message = "Hello World"
-    //message = "Ashik Iqbal" // here you see that we cannot reassign message
+    message = "Ashik Iqbal" // here you see that we cannot reassign message
 
     println(message)
     println(score)
